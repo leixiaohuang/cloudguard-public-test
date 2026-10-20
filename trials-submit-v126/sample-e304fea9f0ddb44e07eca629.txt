@@ -1,0 +1,2 @@
+# Credential Watch synthetic trial; not an issued or usable credential.
+TOKEN=ghp_F6GHRt0d5id1BWQb1nNvWmMW0kqMwc4wtc5d
